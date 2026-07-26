@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="196" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcyZG02enB5dzJ5cXh2emVkN2J4MWtpcWp0cG82OTlqZHpuY3EweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5NE2L7vdWZ9V39Sjq8/giphy.gif"  />
+<img data-importer="image" align="right" height="206" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcyZG02enB5dzJ5cXh2emVkN2J4MWtpcWp0cG82OTlqZHpuY3EweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5NE2L7vdWZ9V39Sjq8/giphy.gif"  />
 
 ###
 
@@ -72,14 +72,14 @@
 
 <br clear="both">
 
-<img data-importer="image" align="left" height="169" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndzdHE3aDBydGliZ2Q5ZDd1ZjluZHpuamJxaXp3bXlkc25rc2JucSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUA7b4LNqswUGX2REs/giphy.gif"  />
+<img data-importer="image" align="left" height="179" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndzdHE3aDBydGliZ2Q5ZDd1ZjluZHpuamJxaXp3bXlkc25rc2JucSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUA7b4LNqswUGX2REs/giphy.gif"  />
 
 ###
 
 <div data-importer="stats" align="right">
   <img src="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=shuvamm939-glitch&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="167" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="188" alt="languages graph"  />
 </div>
 
 ###
