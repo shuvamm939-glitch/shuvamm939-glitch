@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <a href="eren_d.luffy" target="_blank">
+  <a href="https://discord.com/users/1391114413792301168" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="eren5150267@gmail.com" target="_blank">
@@ -76,7 +76,7 @@
 
 ###
 
-<div data-importer="stats" align="right">
+<div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=shuvamm939-glitch&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="188" alt="languages graph"  />
@@ -95,5 +95,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+###
+
+<br clear="both">
+
+<div data-importer="socials" align="left">
+  <a href="https://discord.com/users/1391114413792301168" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
 ###
