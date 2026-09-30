@@ -71,10 +71,10 @@
 ###
 
 ## CONTRIBUTION MAP
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?shuvamm939-glitch&theme=tokyonight" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvamm939-glitch&theme=tokyo-night&hide_border=true" />
-</p>
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvamm939-glitch&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shuvamm939-glitch&theme=tokyo-night&hide_border=true)
 
 <br clear="both">
 
