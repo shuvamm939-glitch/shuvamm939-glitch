@@ -74,7 +74,6 @@
 
 ![Profile summary card for Shuvam showing GitHub contribution details and activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvamm939-glitch&theme=tokyonight)
 
-<br clear="both">
 
 ###
 
@@ -84,11 +83,7 @@
 
 ###
 
-<br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/snake-output/snake.svg" alt="Animated snake traveling across a grid of Shuvams GitHub contribution squares" />
-
-###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -98,7 +93,6 @@
 
 ###
 
-<br clear="both">
 
 <div data-importer="socials" align="left">
   <a href="https://discord.com/users/1391114413792301168" target="_blank">
