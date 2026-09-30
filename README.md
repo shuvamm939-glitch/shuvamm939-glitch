@@ -108,5 +108,3 @@
 </div>
 
 ###
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/shuvamm939-glitch?theme=dark&font=Karla&width=900)
