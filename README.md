@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/shuvamm939-glitch/">
-    <img src="https://leetcard.jacoblin.cool/shuvamm939-glitch?theme=dark&font=Karla&ext=heatmap" alt="Shuvam's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/shuvamm939-glitch?theme=dark&font=Karla&ext=heatmap&width=900&height=200" alt="Shuvam's LeetCode Stats" />
   </a>
 </p>
 
