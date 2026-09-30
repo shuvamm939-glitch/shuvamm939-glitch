@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! I'm Shuvam(Eren)</h2>
+<h2 data-importer="text" align="left">Hi ! I'm Shuvam(Eren)</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">👋 Hey, I'm Shuvam<br><br>💻 Beginner Developer<br>🤖 Exploring AI/ML, Linux & Open Source<br>⚡ Learning C++, Python & Git<br>🌱 Building projects, one commit at a time<br>Of course I will!.</p>
+<p data-importer="text" align="left"> Hey, I'm Shuvam<br><br> Beginner Developer<br> Exploring AI/ML, Linux & Open Source<br> Learning C++, Python & Git<br> Building projects, one commit at a time<br>Of course I will!.</p>
 
 ###
 
@@ -70,17 +70,21 @@
 
 ###
 
-<br clear="both">
+## CONTRIBUTION MAP
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?shuvamm939-glitch&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvamm939-glitch&theme=tokyo-night&hide_border=true" />
+</p>
 
-<img data-importer="image" align="left" height="179" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndzdHE3aDBydGliZ2Q5ZDd1ZjluZHpuamJxaXp3bXlkc25rc2JucSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUA7b4LNqswUGX2REs/giphy.gif"  />
+<br clear="both">
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=shuvamm939-glitch&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="188" alt="languages graph"  />
-</div>
+![Stats graph](https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
+
+![Streak graph](https://streak-stats.demolab.com?user=shuvamm939-glitch&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)
+
+![Languages graph](https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
 
 ###
 
