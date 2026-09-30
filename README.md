@@ -1,4 +1,4 @@
-![Shuvam's banner](image/shuvam-github-banner-lab-v2.gif)
+![Shuvam's banner](image/Shuvam_Developer.gif)
 
 <h2 data-importer="text" align="left">Hi ! I'm Shuvam(Eren)</h2>
 
