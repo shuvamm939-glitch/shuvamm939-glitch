@@ -83,7 +83,7 @@
 
 ###
 
-
+[![Leetcode Stats](https://leetcode.com/u/shuvamm939-glitch/?ext=heatmap)](https://leetcode.com/u/shuvamm939-glitch/?ext=heatmap)
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -92,7 +92,6 @@
 </picture>
 
 ###
-![Leetcode Stats](https://leetcode.com/u/shuvamm939-glitch/)
 
 
 <div data-importer="socials" align="left">
