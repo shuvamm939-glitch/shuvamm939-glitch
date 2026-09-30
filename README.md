@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="shuvam-github-banner-lab-v2.gif" alt="Shuvam's banner" width="900" />
-</p>
+![shuvam-github-banner-lab-v2](image/shuvam-github-banner-lab-v2.gifshuvam-github-banner-lab-v2.gif)
 
 <h2 data-importer="text" align="left">Hi ! I'm Shuvam(Eren)</h2>
 
