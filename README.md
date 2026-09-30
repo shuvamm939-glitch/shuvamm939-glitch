@@ -74,13 +74,9 @@
 
 ![Profile summary card for Shuvam showing GitHub contribution details and activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvamm939-glitch&theme=tokyonight)
 
-![Activity graph for Shuvam showing GitHub contributions over time in a dark themed chart](https://github-readme-activity-graph.vercel.app/graph?username=shuvamm939-glitch&theme=tokyo-night&hide_border=true)
-
 <br clear="both">
 
 ###
-
-![GitHub statistics card for Shuvam with contribution totals, rank, and programming activity](https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
 
 ![GitHub contribution streak card for Shuvam showing daily activity and longest streak](https://streak-stats.demolab.com?user=shuvamm939-glitch&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)
 
