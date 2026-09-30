@@ -81,9 +81,16 @@
 
 ![GitHub language statistics card for Shuvam ranking the five most used programming languages](https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
 
-###
 
-[![Leetcode Stats](https://leetcode.com/u/shuvamm939-glitch/?ext=heatmap)](https://leetcode.com/u/shuvamm939-glitch/?ext=heatmap)
+## LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/shuvamm939-glitch/">
+    <img src="https://leetcard.jacoblin.cool/shuvamm939-glitch?theme=dark&font=Karla&ext=heatmap" alt="Shuvam's LeetCode Stats" />
+  </a>
+</p>
+
+### 
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -101,3 +108,4 @@
 </div>
 
 ###
+
