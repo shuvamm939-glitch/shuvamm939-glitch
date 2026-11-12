@@ -78,9 +78,7 @@
 
 ### Codeforces Stats
 
-<p>
-  <img style="width:340px" src="https://codeforces-readme-stats.vercel.app/api/card?username=https://codeforces.com/profile/shuvamm939&theme=dark&border_color=63656e">
-</p>
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?https://codeforces.com/profile/shuvamm939&theme=dark&border_color=63656e)
 
 ###
 
