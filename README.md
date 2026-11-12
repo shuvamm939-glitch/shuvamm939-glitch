@@ -76,6 +76,16 @@
 
 ![Profile summary card for Shuvam showing GitHub contribution details and activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvamm939-glitch&theme=tokyonight)
 
+### Codeforces Stats
+
+![](https://raw.githubusercontent.com/https://github.com/shuvamm939-glitch/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/https://github.com/shuvamm939-glitch/cf-stats/main/output/light_card.svg)
+
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
+
+###
+
 
 ###
 
@@ -94,15 +104,7 @@
 
 ### 
 
-### Codeforces Stats
 
-![](https://raw.githubusercontent.com/https://github.com/shuvamm939-glitch/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/https://github.com/shuvamm939-glitch/cf-stats/main/output/light_card.svg)
-
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
-
-###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
