@@ -96,11 +96,10 @@
 
 ## Codeforces Stats
 
-<p align="center">
-  <a href="https://codeforces.com/profile/https://codeforces.com/profile/shuvamm939">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CF_HANDLE" alt="Codeforces Stats" />
-  </a>
-</p>
+
+## Codeforces Stats
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=https://codeforces.com/profile/shuvamm939)](https://codeforces.com/profile/https://codeforces.com/profile/shuvamm939)
 
 ###
 
