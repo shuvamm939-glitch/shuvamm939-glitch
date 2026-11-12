@@ -94,12 +94,22 @@
 
 ### 
 
-## Codeforces Stats
+### Codeforces Stats
 
+<p align="center">
+  <a href="https://codeforces.com/profile/shuvamm939">
+    <img
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=shuvamm939"
+      alt="Shuvam's Codeforces Stats"
+    />
+  </a>
+</p>
 
-## Codeforces Stats
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=https://codeforces.com/profile/shuvamm939)](https://codeforces.com/profile/https://codeforces.com/profile/shuvamm939)
+<p align="center">
+  <a href="https://codeforces.com/profile/shuvamm939">
+    <img src="https://img.shields.io/badge/Codeforces-shuvamm939-blue?style=for-the-badge&logo=codeforces" />
+  </a>
+</p>
 
 ###
 
