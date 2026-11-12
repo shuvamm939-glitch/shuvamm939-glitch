@@ -77,6 +77,7 @@
 ![Profile summary card for Shuvam showing GitHub contribution details and activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvamm939-glitch&theme=tokyonight)
 
 ### Codeforces Stats
+
 <p>
   <img style="width:340px" src="https://codeforces-readme-stats.vercel.app/api/card?username=https://codeforces.com/profile/shuvamm939&theme=dark&border_color=63656e">
 </p>
