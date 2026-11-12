@@ -94,6 +94,16 @@
 
 ### 
 
+## Codeforces Stats
+
+<p align="center">
+  <a href="https://codeforces.com/profile/https://codeforces.com/profile/shuvamm939">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CF_HANDLE" alt="Codeforces Stats" />
+  </a>
+</p>
+
+###
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shuvamm939-glitch/shuvamm939-glitch/pacman-output/pacman-contribution-graph.svg?game=pacman">
